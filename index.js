@@ -42,7 +42,7 @@ function flitterNum(num) {
 
 const num1 = [30, 50, 60, 60];
 const resultFinal = flitterNum(num1);
-console.log(resultFinal);
+// console.log(resultFinal);
 
 function uniqMember(member) {
     let newMember = [];
